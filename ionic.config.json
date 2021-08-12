@@ -1,0 +1,7 @@
+{
+  "name": "wpcafe-iffatunnessa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
